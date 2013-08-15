@@ -1,4 +1,4 @@
-# Create new applicaions tailored for deployment to Heroku
+# Create new applications tailored for deployment to Heroku
 # 
 class Heroku::Command::New < Heroku::Command::Base
   # new:rails [APP_PATH]
