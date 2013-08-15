@@ -1,5 +1,5 @@
-Heroku Rails New
-================
+Heroku New 
+==========
 
 Heroku CLI plugin that generates a Heroku ready Rails application
 
