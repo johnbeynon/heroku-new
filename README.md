@@ -11,8 +11,5 @@ Running
 
 What it does
 
-    Generates a new Rails application (depends on installed version) and then
-    runs my heroku-rails-template
-    (https://github.com/johnbeynon/heroku-rails-template) against the new
-    application.
+Generates a new Rails application (depends on installed version) and then runs my [heroku-rails-template](https://github.com/johnbeynon/heroku-rails-template) against the new application.
 
